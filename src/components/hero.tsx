@@ -24,10 +24,10 @@ export default function Hero() {
         <p className="mb-4 text-sm font-medium uppercase tracking-widest text-primary-foreground/80">
           Kimball Stake
         </p>
-        <h1 className="font-serif text-4xl font-normal leading-tight text-primary-foreground md:text-6xl lg:text-7xl text-balance">
+        <h1 className="text-4xl font-normal leading-tight text-primary-foreground md:text-6xl lg:text-7xl text-balance">
           Mission & Life Skills Prep
         </h1>
-        <h1 className="font-serif text-2xl font-normal leading-tight text-primary-foreground md:text-4xl lg:text-5xl text-balance">
+        <h1 className="text-2xl font-normal leading-tight text-primary-foreground md:text-4xl lg:text-5xl text-balance">
           Refreshments Sign-up
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-primary-foreground/90 md:text-xl">

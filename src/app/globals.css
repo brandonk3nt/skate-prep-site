@@ -73,7 +73,7 @@
 }
 
 @theme inline {
-  --font-sans: 'DM Sans', 'DM Sans Fallback';
+  --font-sans: ui-sans-serif, system-ui, sans-serif;
   --font-serif: 'DM Serif Display', 'DM Serif Display Fallback';
   --font-mono: 'Geist Mono', 'Geist Mono Fallback';
   --color-background: var(--background);
