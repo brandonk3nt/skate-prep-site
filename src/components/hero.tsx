@@ -6,7 +6,7 @@ const SIGNUP_URL =
 
 export default function Hero() {
   return (
-    <section className="relative min-h-[100vh] flex items-center">
+    <section className="relative h-full flex items-center">
       {/* Background image */}
       <div className="absolute inset-0 z-0">
         <Image
@@ -28,7 +28,7 @@ export default function Hero() {
           Mission & Life Skills Prep
         </h1>
         <h1 className="font-serif text-2xl font-normal leading-tight text-primary-foreground md:text-4xl lg:text-5xl text-balance">
-         Refreshments Sign-up
+          Refreshments Sign-up
         </h1>
         <p className="mx-auto mt-6 max-w-2xl text-lg leading-relaxed text-primary-foreground/90 md:text-xl">
           Help make our gathering special by signing up to bring your favorite
